@@ -24,7 +24,7 @@ const Projects = () => {
                 width={250}
                 height={150}
                 alt={project.title}
-                className="mb-2"
+                className="mb-4"
               />
               </a>
             </motion.div>
