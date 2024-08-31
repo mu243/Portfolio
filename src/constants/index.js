@@ -3,6 +3,7 @@ import Finance from "../assets/projects/Finance.png";
 import Network from "../assets/projects/Network.png";
 import NewsGuy from "../assets/projects/NewsGuy.png";
 import StudySphere from "../assets/projects/Studysphere.png";
+import Votex from "../assets/projects/Votex.png";
 
 
 export const HERO_CONTENT = `I am a passionate full stack developer with a knack for crafting robust and scalable web applications. With 1.5+ years of hands-on experience, I have honed my skills in front-end technologies like React and Next.js, as well as back-end technologies like Django, Flask, FastAPI, MySQL, PostgreSQL, and MongoDB. My goal is to leverage my expertise to create innovative solutions that drive business growth and deliver exceptional user experiences.`;
