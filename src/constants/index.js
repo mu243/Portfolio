@@ -80,6 +80,14 @@ export const PROJECTS = [
     link:"https://network-4wqp.onrender.com",
   },
   {
+    title: "Votex",
+    image: Votex,
+    description:
+      "Created Vortex, a secure voting app using the MERN stack, enabling over 1000 users to cast votes and view live results, while ensuring role-based access control and JWT-based authentication.",
+    technologies: ["ReactJS", "NodeJs", "ExpressJs", "MongoDB"],
+    link:"https://votex1.netlify.app",
+  },
+  {
     title: "Finance",
     image: Finance,
     description:
