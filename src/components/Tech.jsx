@@ -5,7 +5,7 @@ import { SiMongodb } from "react-icons/si";
 import { BiLogoPostgresql } from "react-icons/bi";
 import { GrMysql } from "react-icons/gr";
 import { SiFlask } from "react-icons/si";
-import { SiFastapi } from "react-icons/si";
+import { FaNodeJs } from "react-icons/fa";
 import { FaBootstrap } from "react-icons/fa";
 import { RiTailwindCssFill } from "react-icons/ri";
 import { motion } from "framer-motion";
@@ -67,7 +67,7 @@ const Tech = () => {
         animate="animate"
 
         className="rounded-2xl border-4 border-neutral-800 p-3 ">
-          <SiFastapi className="text-7xl text-teal-600 " />
+          <FaNodeJs className="text-7xl text-teal-600 " />
         </motion.div>
 
         <motion.div 
