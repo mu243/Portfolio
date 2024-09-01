@@ -67,7 +67,7 @@ const Tech = () => {
         animate="animate"
 
         className="rounded-2xl border-4 border-neutral-800 p-3 ">
-          <FaNodeJs className="text-7xl text-teal-600 " />
+          <FaNodeJs className="text-7xl text-green-900 " />
         </motion.div>
 
         <motion.div 
